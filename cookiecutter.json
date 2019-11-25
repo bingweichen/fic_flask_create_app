@@ -1,0 +1,5 @@
+{
+
+  "project_slug": "myapp",
+  "ClassName": "{{ cookiecutter.project_slug|capitalize }}"
+}
